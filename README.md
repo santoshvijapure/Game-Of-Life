@@ -16,5 +16,5 @@ you need to install [processing](https://processing.org/) (java) to run the Game
   - mousclick on anywhere on the screen will initialize the random board to evaluate with the 4 rules.
 ## Reference Articals
   - [The fantastic combinations of John Conway's new solitaire game "life".](http://www.ibiblio.org/lifepatterns/october1970.html)
-  -[Wiki](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-  -
+  - [Wiki](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+  
